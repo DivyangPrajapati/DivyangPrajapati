@@ -216,6 +216,10 @@ Save changes with a custom message
     
     git stash push -m "message"
 
+Save changes, including untracked files, with a custom message
+
+    git stash push -u -m "message"
+
 Apply the most recent stash
 
     git stash apply
