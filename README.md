@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ### [Git Commands](https://github.com/DivyangPrajapati/DivyangPrajapati/blob/main/Git-Commands.md)
 
 ### [Multiple Git Accounts Setup](https://github.com/DivyangPrajapati/DivyangPrajapati/blob/main/multi-git-account-setup.md)
+
+[Nginx + PHP + MySQL Setup on Windows](https://github.com/DivyangPrajapati/DivyangPrajapati/blob/main/nginx-php-mysql-setup-in-windows.md)
