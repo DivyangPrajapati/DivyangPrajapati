@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ## Some cheatsheet files
 
 ### [Git Commands](https://github.com/DivyangPrajapati/DivyangPrajapati/blob/main/Git-Commands.md)
+
+### [Multiple Git Accounts Setup](https://github.com/DivyangPrajapati/DivyangPrajapati/blob/main/multi-git-account-setup.md)
