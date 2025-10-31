@@ -6,16 +6,16 @@ Open **Git Bash** and run:
 
 ```bash
 # GitHub personal
-ssh-keygen -t ed25519 -C "personal_email@email.com" -f ~/.ssh/id_ed25519_github_persona
+ssh-keygen -t ed25519 -C "personal_email@example.com" -f ~/.ssh/id_ed25519_github_persona
 
 # GitHub work
-ssh-keygen -t ed25519 -C "work_email@email.com" -f ~/.ssh/id_ed25519_github_work
+ssh-keygen -t ed25519 -C "work_email@example.com" -f ~/.ssh/id_ed25519_github_work
 
 # GitLab personal
-ssh-keygen -t ed25519 -C "personal_email@email.com" -f ~/.ssh/id_ed25519_gitlab_personal
+ssh-keygen -t ed25519 -C "personal_email@example.com" -f ~/.ssh/id_ed25519_gitlab_personal
 
 # GitLab work
-ssh-keygen -t ed25519 -C "work_email@email.com" -f ~/.ssh/id_ed25519_gitlab_work
+ssh-keygen -t ed25519 -C "work_email@example.com" -f ~/.ssh/id_ed25519_gitlab_work
 ```
 
 | Part | Meaning |
@@ -112,4 +112,5 @@ Inside each repo, set the right user identity:
 ```bash
 git config user.name "Your Name"
 git config user.email "your_email@example.com"
+
 ```
