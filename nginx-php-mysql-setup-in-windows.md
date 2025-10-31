@@ -179,7 +179,7 @@
 
         #access_log  logs/host.access.log  main;
 
-        root   D:/Divyang/wordpress/site1;
+        root   D:/Projects/wordpress/site1;
         index  index.php index.html index.htm;
 
         location / {
@@ -299,3 +299,4 @@
     > OR
     >
     > nssm restart nginx
+
