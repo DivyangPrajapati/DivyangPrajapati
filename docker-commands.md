@@ -18,8 +18,6 @@ or
 
     docker help
 
----
-
 ## Docker Images
 
 ### Lists all downloaded images
